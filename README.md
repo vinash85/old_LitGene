@@ -18,5 +18,5 @@ If you need access, please reach out to the owner (Macaulay Oladimeji).
 
 ## License
 
-MIT
+MIT 
 **Free Software**
