@@ -12,7 +12,21 @@ GeneLLM is a large language model that seeks gene embeddings by utilizing human 
 Once the environment is set up correctly, you should be able to run the entire notebook without any problems. Please note that the code will be further refined at the time of submitting the paper such that people can run it from any framework/machine (i.e. from any command line).
 
 
+## Description:
+Below is a brief description of the  main directories in this GitHub repo: 
+
+**GeneLLM.ipynb:** The main notebook that contains the fine-tuned models.
+**genellm_scanpy.ipynb:** This notebook is for enrichment analysis.
+**saved-figures:** The generated plots are saved to this directory.
+**data:** This directory contains the data used by the model.
+**DataExtraction:** The data extraction folder.
+**requirements.yml:** This file is for setting up the working environment.
+
+
+
+
 ## License
 
 MIT 
+
 **Free Software**
