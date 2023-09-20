@@ -1,3 +1,4 @@
 data/gene2vec_embeddings.txt filter=lfs diff=lfs merge=lfs -text
 data/gene_embeddings.json filter=lfs diff=lfs merge=lfs -text
 data/final_subcellular_location_class.csv filter=lfs diff=lfs merge=lfs -text
+data/gene_embeds.tsv filter=lfs diff=lfs merge=lfs -text
